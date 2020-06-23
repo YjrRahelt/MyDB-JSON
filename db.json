@@ -1,0 +1,35 @@
+{
+	"random": 54,
+	"random float": 15.508,
+	"bool": false,
+	"date": "1980-03-18",
+	"regEx": "helloooooooooooooooooooooooooooooooooooooooo to you",
+	"enum": "json",
+	"firstname": "Yopres",
+	"lastname": "raprap",
+	"city": "Yogyakarta",
+	"country": "indonesia",
+	"countryCode": "Id",
+	"email uses current data": "yopres94@gmail.com",
+	"array": [
+		"Evita",
+		"Jobi",
+		"Jenilee",
+		"Lanae",
+		"Arabel"
+	],
+	"array of objects": [
+		{
+			"index": 0,
+			"index start at 5": 5
+		},
+		{
+			"index": 1,
+			"index start at 5": 6
+		},
+		{
+			"index": 2,
+			"index start at 5": 7
+		}
+	]
+}
